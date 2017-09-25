@@ -1,5 +1,6 @@
 Hello SoftUni!
 Hello World
-Uplode whit Tortoise!!
 Dots Here...
 Dots anywhere.....
+Update whit GitBash!!
+Uplode whit Tortoise!!
